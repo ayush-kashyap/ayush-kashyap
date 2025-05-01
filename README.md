@@ -34,7 +34,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** JavaScript, Python, C++, C  
-- **Frontend:** React, Redux, HTML5, CSS3, TailwindCSS  
+- **Frontend:** ,NextJS React, Redux, HTML5, CSS3, TailwindCSS  
 - **Backend:** Node.js, Express, MongoDB  
 - **Mobile Apps:** Flutter, Dart  
 - **Tools:** Git, VS Code, Postman  
